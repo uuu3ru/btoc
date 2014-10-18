@@ -1,4 +1,4 @@
-<?php
+<?php 
 	include('arrays.php');	
 	require_once('class.table.php'); 		//�������� �� ������ ��������� ��������
 
