@@ -1,59 +1,43 @@
-div.main
-{
-
-position: relative; 
-left:25%; 
-margin-left:-25%;
-
+div.main {
+	position: relative;
+	left: 25%;
+	margin-left: -25%;
 }
 
-#dop-block{ 
+#dop-block {
+	position: relative;
+	float: right;
+	right: 50%;
+}
 
-position: relative; 
-
-float: right; 
-
-right: 50%; 
-
-} 
-
-#block{ 
-
-position: relative; 
-
-float: left; 
-
-left: 50%; 
-
+#block {
+	position: relative;
+	float: left;
+	left: 50%;
 }
 
 body {
-	
-
-	font: 14px Arial, Helvetica, sans-serif;
-
-}
-
-td 
-{
 	font: 14px Arial, Helvetica, sans-serif;
 }
 
-#Features
-{
+td {
+	font: 14px Arial, Helvetica, sans-serif;
+}
+
+#Features {
 	float: left;
 }
-#buttomEnter
-{
-	clear:left;
+
+#buttomEnter {
+	clear: left;
 }
-input
-{
+
+input {
 	font: 14px Arial, Helvetica, sans-serif;
 	width: 140px;
 }
-input.disabled
-{
+
+input.disabled {
 	font: 12px Arial, Helvetica, sans-serif;
 	font-weight: bold;
 }
